@@ -1,0 +1,4 @@
+sin393-2018\data
+sin393-2018\minha_imagem
+sin393-2018\Aula 09 - Extração de caracteristicas.ipynb
+sin393-2018\.ipynb_checkpoints
